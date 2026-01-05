@@ -56,14 +56,12 @@ Password: **12345678**
 
 ---
 
+### FrontEnd
+<img width="1680" height="4351" alt="screencapture-127-0-0-1-8000-2026-01-05-15_42_43" src="https://github.com/user-attachments/assets/b7d17ec4-73df-4f8c-a417-bcdf00ec130a" />
+
 ### Dashboard
-<img width="1664" height="874" alt="image" src="https://github.com/user-attachments/assets/1647154e-1736-4390-9a51-d2ef085fa88a" />
-Manage Services
-<img width="1678" height="879" alt="image" src="https://github.com/user-attachments/assets/7a7fdad7-4f5e-4df2-8fe3-d4c528a0ded0" />
-Blog List
-<img width="1675" height="881" alt="image" src="https://github.com/user-attachments/assets/e2baf2b3-f7c3-48b5-976d-5b472693b6e2" />
-Contact Messages
-<img width="1677" height="878" alt="image" src="https://github.com/user-attachments/assets/4cdff379-4c9b-41d0-b162-b2a91030fcb9" />
+<img width="1680" height="881" alt="screencapture-127-0-0-1-8000-admin-2026-01-05-15_43_17" src="https://github.com/user-attachments/assets/3a631878-5849-444a-a0d0-29895bb7f796" />
+
 
 ### 📁 Project Structure (Important Folders)
 ```bash
