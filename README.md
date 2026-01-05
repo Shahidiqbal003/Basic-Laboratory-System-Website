@@ -1,4 +1,4 @@
-# 🧪 Ghazi Lab Diagnostic – Laravel MVC Website
+<img width="1664" height="874" alt="image" src="https://github.com/user-attachments/assets/7216db09-1512-4094-a52e-87e70fa6590d" /><img width="1664" height="874" alt="image" src="https://github.com/user-attachments/assets/bf09191a-7469-4d2e-915f-e25533aa65b7" /><img width="1664" height="874" alt="image" src="https://github.com/user-attachments/assets/a99c670d-dbe4-460d-af3a-a5aa2c1a995f" /># 🧪 Ghazi Lab Diagnostic – Laravel MVC Website
 
 A clean and simple **Laravel MVC-based Lab Diagnostic Website** that allows administrators to manage lab services, test details, blog posts, and incoming contact queries.  
 Built as a lightweight CMS for small laboratories to maintain their online presence with ease.
@@ -64,3 +64,39 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/your-username/lab-website.git
 cd lab-website
+
+### Dashboard
+<img width="1664" height="874" alt="image" src="https://github.com/user-attachments/assets/1647154e-1736-4390-9a51-d2ef085fa88a" />
+Manage Services
+<img width="1678" height="879" alt="image" src="https://github.com/user-attachments/assets/7a7fdad7-4f5e-4df2-8fe3-d4c528a0ded0" />
+Blog List
+<img width="1675" height="881" alt="image" src="https://github.com/user-attachments/assets/e2baf2b3-f7c3-48b5-976d-5b472693b6e2" />
+Contact Messages
+<img width="1677" height="878" alt="image" src="https://github.com/user-attachments/assets/4cdff379-4c9b-41d0-b162-b2a91030fcb9" />
+
+### 📁 Project Structure (Important Folders)
+app/
+ ├── Http/
+ │    ├── Controllers/
+ │    ├── Middleware/
+ │
+resources/
+ ├── views/
+ │    ├── admin/
+ │    ├── frontend/
+ │
+routes/
+ ├── web.php
+
+public/
+ ├── assets/
+ ├── uploads/
+
+###📄 License
+This project is for educational and demonstration purposes only.
+
+### ✨ Author
+Shahid Iqbal
+Full Stack Developer – PHP | Laravel | WordPress | Shopify
+Email: **mailto:shahaidofficial@gmail.com**  
+LinkedIn: **(https://www.linkedin.com/in/shahidiqbal9636/)**
